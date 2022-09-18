@@ -1,11 +1,4 @@
 # csv_parser
-
-Please include a README file that indicates how to run your solution. You may also
-want to
-include the reasoning behind the design decisions you made, anything you would
-change if you were to rewrite it, and anything else you'd like to communicate.
-
-
 ## How to run
 Place input in a csv or text file, put the file in the folder, then run the follow command: `ruby csv_parser.rb file_name`
 
